@@ -36,29 +36,41 @@ Identify the challenges and the associated recommendations in the given scenario
 # Exercise 1: Define Key Roles
 
 In this exercise, you need to define at least three key roles that are required to implement Scrum effectively in the given scenario.
+
 Step 1: Keeping the CTRL key pressed, click here to download the Action Plan based on SWOT Analysis document.
 Note: Use the COMMAND key instead of CTRL on Mac systems.
+
 Step 2: Open the document in MS Word. The first section, Key Roles Required, in the contains a table with two columns, key roles and rationale.
+
 Step 3: Add at least three key roles that need to be hired to implement Scrum based on your SWOT analysis in the given scenario.
 Note: Do not worry about the personnel numbers for each role defined.
+
 Step 4: Add the rationale for why the role is required. Do this for each role.
 Hint: Does the organization need a position that can act as the Voice of the Customer?
+
 Step 5: Save the document.
 
 # Exercise 2: Perform Training Needs Assessment
 
 In this exercise, you need to define at least 10 skills and competencies that are required to implement Scrum in the given scenario.
+
 Step 1: Navigate to the second section, Training Needs Assessment, in the Action Plan based on SWOT Analysis document.
+
 Step 2: Add at least 10 skills and competencies. Use one row for one skill or competency.
 Hint: Do various communications skills matter?
+
 Step 3: Save the document.
 
 # Exercise 3: Identify Challenges and Recommendations
 
 In this exercise, you need to identify at least 6 challenges and recommendations the organization may encounter as they attempt to implement Scrum in the given scenario.
+
 Step 1: Navigate to the third section, Challenges and Recommendations, in the Action Plan based on SWOT Analysis document.
+
 Step 2: Add at least six challenges. Use one row for one challenge.
 Hint: Do stakeholders cope well with the change in how they conduct the business?
+
 Step 3: Add at least six recommendations (at least one per identified challenge).
+
 Step 4: Save the document.
 
